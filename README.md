@@ -1,14 +1,14 @@
-Laboratorio de Seguridad SIEM & XDR con Wazuh y Windows Server 2022
+# Laboratorio de Seguridad SIEM & XDR con Wazuh y Windows Server 2022
 
-Descripción General
+## Descripción General
 Este proyecto documenta el despliegue y la configuración de un laboratorio defensivo de Monitoreo de Seguridad (SIEM) y Respuesta Extendida (XDR). Se utilizó **Wazuh** desplegado sobre contenedores Docker en **Kali Linux** para monitorear, auditar y analizar eventos en tiempo real sobre un servidor objetivo **Windows Server 2022**.
 
-Arquitectura y Tecnologías
+## Arquitectura y Tecnologías
 - **Servidor SIEM / XDR:** Wazuh v4.9 (Desplegado en Docker sobre Kali Linux)
 - **Host Monitoreado:** Windows Server 2022 (Agente Wazuh v4.9)
 - **Entorno de Red:** Red nativa aislada en VirtualBo
 
-Capacidades Implementadas en el Laboratorio
+## Capacidades Implementadas en el Laboratorio
 
   1. Ingestión y Monitoreo de Eventos de Seguridad
 - Configuración de políticas de auditoría en Windows Server.
