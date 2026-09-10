@@ -25,3 +25,4 @@ Este proyecto documenta el despliegue y la configuración de un laboratorio defe
   Evidencias de Captura (Alertas)
 - **Fuerza Bruta / Fallos de inicio de sesión:** Eventos 4625 registrados en la interfaz de Wazuh Discover.
 - **Modificación de Archivos (FIM):** Alertas en vivo ante cambios en sumas de verificación SHA256 sobre archivos `.txt`.
+(captura.jpg)
